@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  phonebook-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-05T15:29:08.521089615Z"
+    description: A Helm chart for TAKLA
+    digest: de30f47230791bd72cdfc3356c7beeb694b8c7dbaca838bcdb38989839d5792f
+    name: phonebook-chart
+    type: application
+    urls:
+    - phonebook-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-05T15:29:08.519615604Z"
